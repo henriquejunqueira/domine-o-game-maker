@@ -34,7 +34,11 @@
   },
   "name":"01-InterfaceGM",
   "resources":[
+    {"id":{"name":"obj_quadrado","path":"objects/obj_quadrado/obj_quadrado.yy",},},
+    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
+    {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_quadrado","path":"sprites/spr_quadrado/spr_quadrado.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
